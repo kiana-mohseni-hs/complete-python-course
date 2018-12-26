@@ -75,3 +75,4 @@ def power_of_two():
         return n_square
 
 print(power_of_two())
+print(f'goodbye')
