@@ -7,6 +7,7 @@ my_file = open('people.txt', 'r')
 lines = [line.strip() for line in my_file.readlines()]
 
 print(lines)
+print(lines)
 
 your_friends_list = input(f'enter the names of your friends: ').split(',')
 print(your_friends_list)
